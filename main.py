@@ -19,9 +19,6 @@ async def get_customer_info(customer_id: str) -> str:
     return str(customer_info)
 
 
-# ...
-
-
 @mcp.tool()
 async def get_order_details(order_id: str) -> str:
     """Get details about a specific order."""
