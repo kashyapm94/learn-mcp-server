@@ -13,7 +13,6 @@ EXPECTED_TOOLS = [
     "get_customer_ids_by_name",
     "get_orders_by_customer_id",
 ]
-7  # ...
 
 
 @pytest.mark.asyncio
