@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"ecommerce-db-server": {
+			"type": "stdio",
+			"command": "/home/kashyapmaheshwari/personal_projects/learn-mcp/.venv/bin/python",
+			"args": ["/home/kashyapmaheshwari/personal_projects/learn-mcp/main.py"]
+		}
+	},
+	"inputs": []
+}
